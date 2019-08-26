@@ -1,25 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "About us"
+subheadline: ""
+teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+   image_fullwidth: "header-kilimanjaro.jpg"
+permalink: "/about-us/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum enim id sem tempor, vel gravida purus consequat. Proin imperdiet ut est et egestas. Duis nunc quam, dapibus at sem sit amet, commodo feugiat diam. Donec dapibus eros at nulla elementum tristique id at enim. Nulla facilisi. Integer ut eros ultrices, mattis enim quis, euismod nisi.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+ Suspendisse potenti. Curabitur pellentesque sapien nec libero dictum, vel semper ipsum aliquam. Integer massa elit, malesuada egestas velit vel, lacinia scelerisque tellus. Sed quam eros, lacinia id ipsum sit amet, lacinia sagittis eros. Cras dapibus, sapien eu finibus interdum, nulla dui fringilla magna, ac rhoncus leo dui sit amet mauris. Praesent et nunc eget est dapibus pulvinar. Quisque suscipit augue nec posuere pharetra.
