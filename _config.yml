@@ -39,7 +39,7 @@ improve_content: https://github.com/tdbl/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://tdbl.github.io/tdbl/images/'
-urlimg: 'http://localhost:4000/tdbl/images/'
+#urlimg: 'http://localhost:4000/tdbl/images/'
 
 
 # Logo size is 600x80 pixels
